@@ -1,0 +1,1114 @@
+{
+  "maps": [
+    {
+      "id": "dust2",
+      "name": "Dust 2",
+      "icon": "images/icons/dust2.png",
+      "coverImage": "images/maps/dust2/cover.png",
+      "locations": [
+        {
+          "id": "a-car",
+          "name": "A Car",
+          "images": [
+            "images/maps/dust2/a-car.png"
+          ]
+        },
+        {
+          "id": "a-cross",
+          "name": "A Cross",
+          "images": [
+            "images/maps/dust2/a-cross.png"
+          ]
+        },
+        {
+          "id": "a-default",
+          "name": "A Default",
+          "images": [
+            "images/maps/dust2/a-default.png"
+          ]
+        },
+        {
+          "id": "a-long",
+          "name": "A Long",
+          "images": [
+            "images/maps/dust2/a-long-1.png",
+            "images/maps/dust2/a-long-2.png"
+          ]
+        },
+        {
+          "id": "a-plat",
+          "name": "A Plat",
+          "images": [
+            "images/maps/dust2/a-plat.png"
+          ]
+        },
+        {
+          "id": "a-ramp",
+          "name": "A Ramp",
+          "images": [
+            "images/maps/dust2/a-ramp.png"
+          ]
+        },
+        {
+          "id": "a-site",
+          "name": "A Site",
+          "images": [
+            "images/maps/dust2/a-site.png"
+          ]
+        },
+        {
+          "id": "back-plat",
+          "name": "Back Plat",
+          "images": [
+            "images/maps/dust2/back-plat.png"
+          ]
+        },
+        {
+          "id": "barrels",
+          "name": "Barrels",
+          "images": [
+            "images/maps/dust2/barrels-1.png",
+            "images/maps/dust2/barrels-2.png"
+          ]
+        },
+        {
+          "id": "b-back-site",
+          "name": "B Back Site",
+          "images": [
+            "images/maps/dust2/b-back-site.png"
+          ]
+        },
+        {
+          "id": "b-boxes",
+          "name": "B Boxes",
+          "images": [
+            "images/maps/dust2/b-boxes.png"
+          ]
+        },
+        {
+          "id": "b-car",
+          "name": "B Car",
+          "images": [
+            "images/maps/dust2/b-car.png"
+          ]
+        },
+        {
+          "id": "b-closet",
+          "name": "B Closet",
+          "images": [
+            "images/maps/dust2/b-closet.png"
+          ]
+        },
+        {
+          "id": "b-default",
+          "name": "B Default",
+          "images": [
+            "images/maps/dust2/b-default.png"
+          ]
+        },
+        {
+          "id": "b-doors",
+          "name": "B Doors",
+          "images": [
+            "images/maps/dust2/b-doors-1.png",
+            "images/maps/dust2/b-doors-2.png"
+          ]
+        },
+        {
+          "id": "big-box",
+          "name": "Big Box",
+          "images": [
+            "images/maps/dust2/big-box-1.png",
+            "images/maps/dust2/big-box-2.png"
+          ]
+        },
+        {
+          "id": "blue",
+          "name": "Blue",
+          "images": [
+            "images/maps/dust2/blue.png"
+          ]
+        },
+        {
+          "id": "b-plat",
+          "name": "B Plat",
+          "images": [
+            "images/maps/dust2/b-plat-1.png",
+            "images/maps/dust2/b-plat-2.png"
+          ]
+        },
+        {
+          "id": "b-site",
+          "name": "B Site",
+          "images": [
+            "images/maps/dust2/b-site.png"
+          ]
+        },
+        {
+          "id": "b-window",
+          "name": "B Window",
+          "images": [
+            "images/maps/dust2/b-window-1.png",
+            "images/maps/dust2/b-window-2.png"
+          ]
+        },
+        {
+          "id": "catwalk",
+          "name": "Catwalk",
+          "images": [
+            "images/maps/dust2/catwalk.png"
+          ]
+        },
+        {
+          "id": "close",
+          "name": "Close",
+          "images": [
+            "images/maps/dust2/close.png"
+          ]
+        },
+        {
+          "id": "close-mid-doors",
+          "name": "Close Mid Doors",
+          "images": [
+            "images/maps/dust2/close-mid-doors.png"
+          ]
+        },
+        {
+          "id": "ct-mid",
+          "name": "CT Mid",
+          "images": [
+            "images/maps/dust2/ct-mid-1.png",
+            "images/maps/dust2/ct-mid-2.png"
+          ]
+        },
+        {
+          "id": "ct-spawn",
+          "name": "CT Spawn",
+          "images": [
+            "images/maps/dust2/ct-spawn-1.png",
+            "images/maps/dust2/ct-spawn-2.png",
+            "images/maps/dust2/ct-spawn-3.png"
+          ]
+        },
+        {
+          "id": "double-stack",
+          "name": "Double Stack",
+          "images": [
+            "images/maps/dust2/double-stack.png"
+          ]
+        },
+        {
+          "id": "elevator",
+          "name": "Elevator",
+          "images": [
+            "images/maps/dust2/elevator.png"
+          ]
+        },
+        {
+          "id": "fence",
+          "name": "Fence",
+          "images": [
+            "images/maps/dust2/fence.png"
+          ]
+        },
+        {
+          "id": "goose",
+          "name": "Goose",
+          "images": [
+            "images/maps/dust2/goose.png"
+          ]
+        },
+        {
+          "id": "long-corner",
+          "name": "Long Corner",
+          "images": [
+            "images/maps/dust2/long-corner.png"
+          ]
+        },
+        {
+          "id": "long-doors",
+          "name": "Long Doors",
+          "images": [
+            "images/maps/dust2/long-doors-1.png",
+            "images/maps/dust2/long-doors-2.png",
+            "images/maps/dust2/long-doors-3.png"
+          ]
+        },
+        {
+          "id": "lower-tunnels",
+          "name": "Lower Tunnels",
+          "images": [
+            "images/maps/dust2/lower-tunnels-1.png",
+            "images/maps/dust2/lower-tunnels-2.png"
+          ]
+        },
+        {
+          "id": "mid",
+          "name": "Mid",
+          "images": [
+            "images/maps/dust2/mid-1.png",
+            "images/maps/dust2/mid-2.png"
+          ]
+        },
+        {
+          "id": "mid-doors",
+          "name": "Mid Doors",
+          "images": [
+            "images/maps/dust2/mid-doors-1.png",
+            "images/maps/dust2/mid-doors-2.png"
+          ]
+        },
+        {
+          "id": "ninja",
+          "name": "Ninja",
+          "images": [
+            "images/maps/dust2/ninja.png"
+          ]
+        },
+        {
+          "id": "outside-long",
+          "name": "Outside Long",
+          "images": [
+            "images/maps/dust2/outside-long-1.png",
+            "images/maps/dust2/outside-long-2.png"
+          ]
+        },
+        {
+          "id": "outside-tunnels",
+          "name": "Outside Tunnels",
+          "images": [
+            "images/maps/dust2/outside-tunnels-1.png",
+            "images/maps/dust2/outside-tunnels-2.png"
+          ]
+        },
+        {
+          "id": "palm",
+          "name": "Palm",
+          "images": [
+            "images/maps/dust2/palm.png"
+          ]
+        },
+        {
+          "id": "pit",
+          "name": "Pit",
+          "images": [
+            "images/maps/dust2/pit.png"
+          ]
+        },
+        {
+          "id": "pit-plat",
+          "name": "Pit Plat",
+          "images": [
+            "images/maps/dust2/pit-plat.png"
+          ]
+        },
+        {
+          "id": "right-side-mid",
+          "name": "Right Side Mid",
+          "images": [
+            "images/maps/dust2/right-side-mid.png"
+          ]
+        },
+        {
+          "id": "scaffolding",
+          "name": "Scaffolding",
+          "images": [
+            "images/maps/dust2/scaffolding.png"
+          ]
+        },
+        {
+          "id": "short",
+          "name": "Short",
+          "images": [
+            "images/maps/dust2/short-1.png",
+            "images/maps/dust2/short-2.png"
+          ]
+        },
+        {
+          "id": "short-boost",
+          "name": "Short Boost",
+          "images": [
+            "images/maps/dust2/short-boost.png"
+          ]
+        },
+        {
+          "id": "side-pit",
+          "name": "Side Pit",
+          "images": [
+            "images/maps/dust2/side-pit.png"
+          ]
+        },
+        {
+          "id": "stairs",
+          "name": "Stairs",
+          "images": [
+            "images/maps/dust2/stairs.png"
+          ]
+        },
+        {
+          "id": "suicide",
+          "name": "Suicide",
+          "images": [
+            "images/maps/dust2/suicide-1.png",
+            "images/maps/dust2/suicide-2.png"
+          ]
+        },
+        {
+          "id": "top-mid",
+          "name": "Top Mid",
+          "images": [
+            "images/maps/dust2/top-mid-1.png",
+            "images/maps/dust2/top-mid-2.png"
+          ]
+        },
+        {
+          "id": "t-plat",
+          "name": "T Plat",
+          "images": [
+            "images/maps/dust2/t-plat-1.png",
+            "images/maps/dust2/t-plat-2.png"
+          ]
+        },
+        {
+          "id": "t-ramp",
+          "name": "T Ramp",
+          "images": [
+            "images/maps/dust2/t-ramp-1.png",
+            "images/maps/dust2/t-ramp-2.png"
+          ]
+        },
+        {
+          "id": "t-spawn",
+          "name": "T Spawn",
+          "images": [
+            "images/maps/dust2/t-spawn-1.png",
+            "images/maps/dust2/t-spawn-2.png"
+          ]
+        },
+        {
+          "id": "tunnel-stairs",
+          "name": "Tunnel Stairs",
+          "images": [
+            "images/maps/dust2/tunnel-stairs-1.png",
+            "images/maps/dust2/tunnel-stairs-2.png"
+          ]
+        },
+        {
+          "id": "upper-tunnels",
+          "name": "Upper Tunnels",
+          "images": [
+            "images/maps/dust2/upper-tunnels-1.png",
+            "images/maps/dust2/upper-tunnels-2.png"
+          ]
+        },
+        {
+          "id": "xbox",
+          "name": "Xbox",
+          "images": [
+            "images/maps/dust2/xbox.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mirage",
+      "name": "Mirage",
+      "icon": "images/icons/mirage.png",
+      "coverImage": "images/maps/mirage/cover.png",
+      "locations": [
+        {
+          "id": "a-default",
+          "name": "A Default",
+          "images": [
+            "images/maps/mirage/a-default-1.png",
+            "images/maps/mirage/a-default-2.png"
+          ]
+        },
+        {
+          "id": "apps-ramp",
+          "name": "Apps Ramp",
+          "images": [
+            "images/maps/mirage/apps-ramp.png"
+          ]
+        },
+        {
+          "id": "a-ramp",
+          "name": "A Ramp",
+          "images": [
+            "images/maps/mirage/a-ramp-1.png",
+            "images/maps/mirage/a-ramp-2.png"
+          ]
+        },
+        {
+          "id": "arches",
+          "name": "Arches",
+          "images": [
+            "images/maps/mirage/arches-1.png",
+            "images/maps/mirage/arches-2.png"
+          ]
+        },
+        {
+          "id": "a-site",
+          "name": "A Site",
+          "images": [
+            "images/maps/mirage/a-site.png"
+          ]
+        },
+        {
+          "id": "a-stairs",
+          "name": "A Stairs",
+          "images": [
+            "images/maps/mirage/a-stairs.png"
+          ]
+        },
+        {
+          "id": "back-alley",
+          "name": "Back Alley",
+          "images": [
+            "images/maps/mirage/back-alley-1.png",
+            "images/maps/mirage/back-alley-2.png"
+          ]
+        },
+        {
+          "id": "balcony",
+          "name": "Balcony",
+          "images": [
+            "images/maps/mirage/balcony.png"
+          ]
+        },
+        {
+          "id": "b-apartments",
+          "name": "B Apartments",
+          "images": [
+            "images/maps/mirage/b-apartments-1.png",
+            "images/maps/mirage/b-apartments-2.png"
+          ]
+        },
+        {
+          "id": "bench",
+          "name": "Bench",
+          "images": [
+            "images/maps/mirage/bench-1.png",
+            "images/maps/mirage/bench-2.png"
+          ]
+        },
+        {
+          "id": "boost-boxes",
+          "name": "Boost Boxes",
+          "images": [
+            "images/maps/mirage/boost-boxes.png"
+          ]
+        },
+        {
+          "id": "b-plat",
+          "name": "B Plat",
+          "images": [
+            "images/maps/mirage/b-plat.png"
+          ]
+        },
+        {
+          "id": "b-short",
+          "name": "B Short",
+          "images": [
+            "images/maps/mirage/b-short-1.png",
+            "images/maps/mirage/b-short-2.png"
+          ]
+        },
+        {
+          "id": "b-site",
+          "name": "B Site",
+          "images": [
+            "images/maps/mirage/b-site.png"
+          ]
+        },
+        {
+          "id": "cart",
+          "name": "Cart",
+          "images": [
+            "images/maps/mirage/cart.png"
+          ]
+        },
+        {
+          "id": "catwalk",
+          "name": "Catwalk",
+          "images": [
+            "images/maps/mirage/catwalk.png"
+          ]
+        },
+        {
+          "id": "chair",
+          "name": "Chair",
+          "images": [
+            "images/maps/mirage/chair.png"
+          ]
+        },
+        {
+          "id": "connector",
+          "name": "Connector",
+          "images": [
+            "images/maps/mirage/connector-1.png",
+            "images/maps/mirage/connector-2.png"
+          ]
+        },
+        {
+          "id": "ct",
+          "name": "CT",
+          "images": [
+            "images/maps/mirage/ct-1.png",
+            "images/maps/mirage/ct-2.png"
+          ]
+        },
+        {
+          "id": "ct-spawn",
+          "name": "CT Spawn",
+          "images": [
+            "images/maps/mirage/ct-spawn-1.png",
+            "images/maps/mirage/ct-spawn-2.png"
+          ]
+        },
+        {
+          "id": "e-box",
+          "name": "E Box",
+          "images": [
+            "images/maps/mirage/e-box.png"
+          ]
+        },
+        {
+          "id": "empty",
+          "name": "Empty",
+          "images": [
+            "images/maps/mirage/empty.png"
+          ]
+        },
+        {
+          "id": "firebox",
+          "name": "Firebox",
+          "images": [
+            "images/maps/mirage/firebox.png"
+          ]
+        },
+        {
+          "id": "house",
+          "name": "House",
+          "images": [
+            "images/maps/mirage/house.png"
+          ]
+        },
+        {
+          "id": "jungle",
+          "name": "Jungle",
+          "images": [
+            "images/maps/mirage/jungle-1.png",
+            "images/maps/mirage/jungle-2.png"
+          ]
+        },
+        {
+          "id": "kitchen",
+          "name": "Kitchen",
+          "images": [
+            "images/maps/mirage/kitchen.png"
+          ]
+        },
+        {
+          "id": "ladder-room",
+          "name": "Ladder Room",
+          "images": [
+            "images/maps/mirage/ladder-room-1.png",
+            "images/maps/mirage/ladder-room-2.png"
+          ]
+        },
+        {
+          "id": "market",
+          "name": "Market",
+          "images": [
+            "images/maps/mirage/market-1.png",
+            "images/maps/mirage/market-2.png"
+          ]
+        },
+        {
+          "id": "market-door",
+          "name": "Market Door",
+          "images": [
+            "images/maps/mirage/market-door-1.png",
+            "images/maps/mirage/market-door-2.png"
+          ]
+        },
+        {
+          "id": "market-window",
+          "name": "Market Window",
+          "images": [
+            "images/maps/mirage/market-window-1.png",
+            "images/maps/mirage/market-window-2.png"
+          ]
+        },
+        {
+          "id": "mid",
+          "name": "Mid",
+          "images": [
+            "images/maps/mirage/mid.png"
+          ]
+        },
+        {
+          "id": "mid-boxes",
+          "name": "Mid Boxes",
+          "images": [
+            "images/maps/mirage/mid-boxes-1.png",
+            "images/maps/mirage/mid-boxes-2.png"
+          ]
+        },
+        {
+          "id": "ninja",
+          "name": "Ninja",
+          "images": [
+            "images/maps/mirage/ninja.png"
+          ]
+        },
+        {
+          "id": "palace",
+          "name": "Palace",
+          "images": [
+            "images/maps/mirage/palace-1.png",
+            "images/maps/mirage/palace-2.png",
+            "images/maps/mirage/palace-3.png",
+            "images/maps/mirage/palace-4.png"
+          ]
+        },
+        {
+          "id": "pillars",
+          "name": "Pillars",
+          "images": [
+            "images/maps/mirage/pillars-1.png",
+            "images/maps/mirage/pillars-2.png"
+          ]
+        },
+        {
+          "id": "sandwich",
+          "name": "Sandwich",
+          "images": [
+            "images/maps/mirage/sandwich.png"
+          ]
+        },
+        {
+          "id": "side-valley",
+          "name": "Side Valley",
+          "images": [
+            "images/maps/mirage/side-valley-1.png",
+            "images/maps/mirage/side-valley-2.png"
+          ]
+        },
+        {
+          "id": "sneaky",
+          "name": "Sneaky",
+          "images": [
+            "images/maps/mirage/sneaky.png"
+          ]
+        },
+        {
+          "id": "snipers-nest",
+          "name": "Sniper's Nest",
+          "images": [
+            "images/maps/mirage/snipers-nest-1.png",
+            "images/maps/mirage/snipers-nest-2.png"
+          ]
+        },
+        {
+          "id": "tetris",
+          "name": "Tetris",
+          "images": [
+            "images/maps/mirage/tetris.png"
+          ]
+        },
+        {
+          "id": "a-ramp",
+          "name": "A Ramp",
+          "images": [
+            "images/maps/mirage/a-ramp-1.png",
+            "images/maps/mirage/a-ramp-2.png"
+          ]
+        },
+        {
+          "id": "ticket-booth",
+          "name": "Ticket Booth",
+          "images": [
+            "images/maps/mirage/ticket-booth.png"
+          ]
+        },
+        {
+          "id": "top-mid",
+          "name": "Top Mid",
+          "images": [
+            "images/maps/mirage/top-mid-1.png",
+            "images/maps/mirage/top-mid-2.png"
+          ]
+        },
+        {
+          "id": "trash",
+          "name": "Trash",
+          "images": [
+            "images/maps/mirage/trash.png"
+          ]
+        },
+        {
+          "id": "triple-box",
+          "name": "Triple Box",
+          "images": [
+            "images/maps/mirage/triple-box-1.png",
+            "images/maps/mirage/triple-box-2.png"
+          ]
+        },
+        {
+          "id": "t-roof",
+          "name": "T Roof",
+          "images": [
+            "images/maps/mirage/t-roof-1.png",
+            "images/maps/mirage/t-roof-2.png"
+          ]
+        },
+        {
+          "id": "t-spawn",
+          "name": "T Spawn",
+          "images": [
+            "images/maps/mirage/t-spawn-1.png",
+            "images/maps/mirage/t-spawn-2.png"
+          ]
+        },
+        {
+          "id": "tv",
+          "name": "TV",
+          "images": [
+            "images/maps/mirage/tv.png"
+          ]
+        },
+        {
+          "id": "under-palace",
+          "name": "Under Palace",
+          "images": [
+            "images/maps/mirage/under-palace.png"
+          ]
+        },
+        {
+          "id": "underpass",
+          "name": "Underpass",
+          "images": [
+            "images/maps/mirage/underpass-1.png",
+            "images/maps/mirage/underpass-2.png"
+          ]
+        },
+        {
+          "id": "van",
+          "name": "Van",
+          "images": [
+            "images/maps/mirage/van.png"
+          ]
+        },
+        {
+          "id": "vent",
+          "name": "Vent",
+          "images": [
+            "images/maps/mirage/vent-1.png",
+            "images/maps/mirage/vent-2.png",
+            "images/maps/mirage/vent-3.png"
+          ]
+        },
+        {
+          "id": "vent-boost",
+          "name": "Vent Boost",
+          "images": [
+            "images/maps/mirage/vent-boost.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nuke",
+      "name": "Nuke",
+      "icon": "images/icons/nuke.png",
+      "coverImage": "images/maps/nuke/cover.png",
+      "locations": [
+        {
+          "id": "a-site",
+          "name": "A Site",
+          "images": [
+            "images/maps/nuke/a-site.png"
+          ]
+        },
+        {
+          "id": "b-site",
+          "name": "B Site",
+          "images": [
+            "images/maps/nuke/b-site.png"
+          ]
+        },
+        {
+          "id": "t-spawn",
+          "name": "T Spawn",
+          "images": [
+            "images/maps/nuke/t-spawn-1.png",
+            "images/maps/nuke/t-spawn-2.png"
+          ]
+        },
+        {
+          "id": "ct-spawn",
+          "name": "CT Spawn",
+          "images": [
+            "images/maps/nuke/ct-spawn-1.png",
+            "images/maps/nuke/ct-spawn-2.png"
+          ]
+        },
+        {
+          "id": "outside",
+          "name": "Outside",
+          "images": [
+            "images/maps/nuke/outside.png"
+          ]
+        },
+        {
+          "id": "lobby",
+          "name": "Lobby",
+          "images": [
+            "images/maps/nuke/lobby.png"
+          ]
+        },
+        {
+          "id": "silo",
+          "name": "Silo",
+          "images": [
+            "images/maps/nuke/silo.png"
+          ]
+        },
+        {
+          "id": "ramp",
+          "name": "Ramp",
+          "images": [
+            "images/maps/nuke/ramp-1.png",
+            "images/maps/nuke/ramp-2.png"
+          ]
+        },
+        {
+          "id": "vent",
+          "name": "Vent",
+          "images": [
+            "images/maps/nuke/vent-1.png",
+            "images/maps/nuke/vent-2.png",
+            "images/maps/nuke/vent-3.png"
+          ]
+        },
+        {
+          "id": "hut",
+          "name": "Hut",
+          "images": [
+            "images/maps/nuke/hut.png"
+          ]
+        },
+        {
+          "id": "secret",
+          "name": "Secret",
+          "images": [
+            "images/maps/nuke/secret.png"
+          ]
+        },
+        {
+          "id": "heaven",
+          "name": "Heaven",
+          "images": [
+            "images/maps/nuke/heaven.png"
+          ]
+        },
+        {
+          "id": "t-roof",
+          "name": "T Roof",
+          "images": [
+            "images/maps/nuke/t-roof.png"
+          ]
+        },
+        {
+          "id": "squeaky",
+          "name": "Squeaky",
+          "images": [
+            "images/maps/nuke/squeaky.png"
+          ]
+        },
+        {
+          "id": "big-box",
+          "name": "Big Box",
+          "images": [
+            "images/maps/nuke/big-box.png"
+          ]
+        },
+        {
+          "id": "boost",
+          "name": "Boost",
+          "images": [
+            "images/maps/nuke/boost.png"
+          ]
+        },
+        {
+          "id": "bottom-ramp",
+          "name": "Bottom Ramp",
+          "images": [
+            "images/maps/nuke/bottom-ramp.png"
+          ]
+        },
+        {
+          "id": "bridge",
+          "name": "Bridge",
+          "images": [
+            "images/maps/nuke/bridge.png"
+          ]
+        },
+        {
+          "id": "control",
+          "name": "Control",
+          "images": [
+            "images/maps/nuke/control.png"
+          ]
+        },
+        {
+          "id": "ct-box",
+          "name": "CT Box",
+          "images": [
+            "images/maps/nuke/ct-box.png"
+          ]
+        },
+        {
+          "id": "ct-red",
+          "name": "CT Red",
+          "images": [
+            "images/maps/nuke/ct-red.png"
+          ]
+        },
+        {
+          "id": "dark",
+          "name": "Dark",
+          "images": [
+            "images/maps/nuke/dark.png"
+          ]
+        },
+        {
+          "id": "decon",
+          "name": "Decon",
+          "images": [
+            "images/maps/nuke/decon.png"
+          ]
+        },
+        {
+          "id": "doors",
+          "name": "Doors",
+          "images": [
+            "images/maps/nuke/doors-1.png",
+            "images/maps/nuke/doors-2.png"
+          ]
+        },
+        {
+          "id": "garage",
+          "name": "Garage",
+          "images": [
+            "images/maps/nuke/garage-1.png",
+            "images/maps/nuke/garage-2.png"
+          ]
+        },
+        {
+          "id": "headshot",
+          "name": "Headshot",
+          "images": [
+            "images/maps/nuke/headshot.png"
+          ]
+        },
+        {
+          "id": "hell",
+          "name": "Hell",
+          "images": [
+            "images/maps/nuke/hell.png"
+          ]
+        },
+        {
+          "id": "lockers",
+          "name": "Lockers",
+          "images": [
+            "images/maps/nuke/lockers.png"
+          ]
+        },
+        {
+          "id": "main",
+          "name": "Main",
+          "images": [
+            "images/maps/nuke/main-1.png",
+            "images/maps/nuke/main-2.png"
+          ]
+        },
+        {
+          "id": "mustang",
+          "name": "Mustang",
+          "images": [
+            "images/maps/nuke/mustang.png"
+          ]
+        },
+        {
+          "id": "radio",
+          "name": "Radio",
+          "images": [
+            "images/maps/nuke/radio.png"
+          ]
+        },
+        {
+          "id": "rafters",
+          "name": "Rafters",
+          "images": [
+            "images/maps/nuke/rafters.png"
+          ]
+        },
+        {
+          "id": "sand-bags",
+          "name": "Sand Bags",
+          "images": [
+            "images/maps/nuke/sand-bags.png"
+          ]
+        },
+        {
+          "id": "tetris",
+          "name": "Tetris",
+          "images": [
+            "images/maps/nuke/tetris.png"
+          ]
+        },
+        {
+          "id": "t-red",
+          "name": "T Red",
+          "images": [
+            "images/maps/nuke/t-red.png"
+          ]
+        },
+        {
+          "id": "trophy",
+          "name": "Trophy",
+          "images": [
+            "images/maps/nuke/trophy.png"
+          ]
+        },
+        {
+          "id": "tunnels",
+          "name": "Tunnels",
+          "images": [
+            "images/maps/nuke/tunnels-1.png",
+            "images/maps/nuke/tunnels-2.png"
+          ]
+        },
+        {
+          "id": "turn-pike",
+          "name": "Turnpike",
+          "images": [
+            "images/maps/nuke/turn-pike.png"
+          ]
+        },
+        {
+          "id": "window",
+          "name": "Window",
+          "images": [
+            "images/maps/nuke/window.png",
+            "images/maps/nuke/window-1.png"
+          ]
+        }
+      ]
+    }
+  ]
+}
